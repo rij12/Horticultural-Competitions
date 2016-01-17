@@ -152,7 +152,7 @@ void print_menu(Node *node) {
     //print(node);
 }
 
-/* This function prints a node, with the required format.
+/* This function prints a node, in the required format.
  * @param node - a point to a node to be printed. 
  */
 void print_node(Node *node) {
@@ -171,7 +171,7 @@ void print_node(Node *node) {
 
 }
 
-/*@param node -a pointer to node.
+/*@param node - a pointer to node.
  *@return total_sum - combined length of passed pointer node.
  */
 float get_total(Node *node) {
