@@ -1,0 +1,74 @@
+Capel Bangor Horticultural.
+31st August 2014.
+Margaret Mouse
+Skirting Board House, Mosehole, Devon. DV1 2ST
+Southern 9565
+1 5.0
+2 4.3
+1 5.6
+Bert Hill
+14, Priory Lane, Birmingham, West Midlands. B20 1RU
+Central 2010
+1 7.3
+1 8.5
+2 1.7
+Donald Duck
+Village Pond, Duckington-by-Sea. S12 1QQ
+Marine 1234567
+1 8.2
+2 6.3
+1 9.4
+Millicent Mole
+The Cave, Underfield-by-Hill, Middle Land. M1 1TC
+Sub 4813
+2 4.2
+2 1.3
+1 1.2
+Fred Short
+The Cottage, 2 Kings Road, Liliput. LP1 1LL
+Mini 12345
+1 6.5
+1 2.3
+2 1.0
+Dave Cost
+Tidy House, 11 Yellow Mill Avenue, Chapelton. CH1 4WW
+Country 2000
+2 6.3
+2 3.4
+2 1.7
+Sandra Fence
+Tall House, 2 Hill Side, Llanaber. LL1 2QQ
+Town 4123
+1 2.3
+1 3.2
+1 4.5
+Jane Harpy
+The Mansion, North Village, Crudigun. CR3 5ST
+Northern 286735
+2 8.4
+2 10.7
+1 11.9
+Fred Boot
+Town House, East Road, Llanaber. LL1 1AA
+Town 1234
+1 11.7
+1 10.4
+2 3.6
+Bernie Bolt
+Bulls Eye Villa, Bow Street, Crudigun. CR2 53G
+Northern 129643
+1 6.2
+1 3.4
+2 11.1
+Basil Broom
+No.3, Fox Holes, Chapelton. CH1 4UU
+Country 123
+2 8.2
+2 10.4
+1 11.9
+Barbara Bracket
+Hanger House, Construction Street, Crudigun. CR4 NU1
+mobile 5000
+1 1.2
+2 7.9
+1 6.7
